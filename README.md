@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-**sarthakbharti07-coder/sarthakbharti07-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently# 💫 About Me:
+# 💫 About Me:
 ## 👨‍💻 About Me<br><br>I'm a Python developer in the making, currently exploring **AI, APIs, and Data Structures & Algorithms**.<br><br>I enjoy learning by building real projects, experimenting with new technologies, and understanding how things work under the hood.<br><br>🚀 Currently focused on **Python + AI + DSA**  <br>🧠 Learning by building and solving problems  <br>🔨 Turning ideas into projects
 
 
@@ -26,11 +18,4 @@ Here are some ideas to get you started:
 ---
 [![](https://komarev.com/ghpvc/?username=sarthakbharti07-coder&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
